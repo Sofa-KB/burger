@@ -1,0 +1,23 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Eat-Da-Burger!",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofa-KB/burger.git"
+  },
+  "author": "SofaKB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sofa-KB/burger/issues"
+  },
+  "homepage": "https://github.com/Sofa-KB/burger#readme"
+}

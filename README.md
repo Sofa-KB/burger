@@ -12,6 +12,8 @@ This application allows you to:
 
 ![page_preview](public/assets/images/page_preview.png)
 
+Deployed Application Link: https://hw13-burger-app.herokuapp.com/
+
 ### Languages Used
 - JavaScript
 - jQuery

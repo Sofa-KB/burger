@@ -2,6 +2,11 @@ body {
   background-color: #faebd7;
 }
 
+img {
+  height: 250px;
+  width: 250px;
+}
+
 li {
   padding: 5px;
   margin: 5px;
